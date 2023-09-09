@@ -1,2 +1,3 @@
 # Java-Fast-Food-Order-
- 
+ The Online fast food order Java Project is a web-based application that enables customers to order food online from their  favorite restaurants. The project is built using Java, JSP, Servlets, and MySQL database technologies.
+The main objective of the project on Online fast food order System is to manage the details of Food . Item Category, Shopping Cart, Customer, Order. It manages all the information about Food, Delivery Address, Order , Food. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Food, Item Category, Delivery Address, Shopping Cart. It tracks all the details about the Shopping Cart, Customer , Order.
